@@ -1,0 +1,16 @@
+io\assignment\kalah\exception\ExceptionControllerAdvice.class
+io\assignment\kalah\exception\GameNotFoundException.class
+io\assignment\kalah\repository\KalahGameRepositoryImpl.class
+io\assignment\kalah\controller\KalahGameController.class
+io\assignment\kalah\service\KalahGameService.class
+io\assignment\kalah\repository\KalahGameRepository.class
+io\assignment\kalah\service\KalahGameServiceImpl.class
+io\assignment\kalah\model\KalahGame.class
+io\assignment\kalah\exception\IllegalMoveException.class
+io\assignment\kalah\dto\KalahGameDTO.class
+io\assignment\kalah\config\SwaggerConfig.class
+io\assignment\kalah\exception\ErrorResponse.class
+io\assignment\kalah\model\KalahBoard.class
+io\assignment\kalah\model\Player.class
+io\assignment\kalah\KalahApplication.class
+io\assignment\kalah\model\Pit.class

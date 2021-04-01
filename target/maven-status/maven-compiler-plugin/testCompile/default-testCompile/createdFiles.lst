@@ -1,0 +1,11 @@
+io\assignment\kalah\controller\KalahGameControllerTest.class
+io\assignment\kalah\exception\GameNotFoundExceptionTest.class
+io\assignment\kalah\model\BoardTest.class
+io\assignment\kalah\model\PitTest.class
+io\assignment\kalah\KalahApplicationTests.class
+io\assignment\kalah\model\PlayerTest.class
+io\assignment\kalah\exception\ExceptionControllerAdviceTest.class
+io\assignment\kalah\exception\IllegalMoveExceptionTest.class
+io\assignment\kalah\model\KalahGameTest.class
+io\assignment\kalah\repository\KalahGameRepositoryTest.class
+io\assignment\kalah\service\KalahGameServiceTest.class

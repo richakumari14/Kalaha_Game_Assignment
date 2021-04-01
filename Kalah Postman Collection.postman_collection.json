@@ -1,0 +1,62 @@
+{
+	"id": "2e6e21e5-fbc7-704c-71c5-9876befbd5a8",
+	"name": "Kalah Postman Collection",
+	"description": "",
+	"order": [
+		"abda4765-6580-5e46-3778-0892392f618c",
+		"5c81a89a-8295-16e5-a469-37792e93bf23"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1617291401105,
+	"owner": 0,
+	"public": false,
+	"requests": [
+		{
+			"id": "5c81a89a-8295-16e5-a469-37792e93bf23",
+			"headers": "",
+			"headerData": [],
+			"url": "http://localhost:8090/games/d112a3bd-c634-4daf-b324-87576d61611f/pits/1",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "PUT",
+			"collectionId": "2e6e21e5-fbc7-704c-71c5-9876befbd5a8",
+			"data": null,
+			"dataMode": "params",
+			"name": "Make Move",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1617291497507,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "abda4765-6580-5e46-3778-0892392f618c",
+			"headers": "",
+			"headerData": [],
+			"url": "http://localhost:8090/games",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "2e6e21e5-fbc7-704c-71c5-9876befbd5a8",
+			"data": null,
+			"dataMode": "params",
+			"name": "Create Game",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1617291456629,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}

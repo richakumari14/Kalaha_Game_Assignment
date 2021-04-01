@@ -1,0 +1,11 @@
+D:\Java Projects\KalahGameService-main\KalahGameService-main\src\test\java\io\assignment\kalah\KalahApplicationTests.java
+D:\Java Projects\KalahGameService-main\KalahGameService-main\src\test\java\io\assignment\kalah\model\BoardTest.java
+D:\Java Projects\KalahGameService-main\KalahGameService-main\src\test\java\io\assignment\kalah\exception\ExceptionControllerAdviceTest.java
+D:\Java Projects\KalahGameService-main\KalahGameService-main\src\test\java\io\assignment\kalah\exception\IllegalMoveExceptionTest.java
+D:\Java Projects\KalahGameService-main\KalahGameService-main\src\test\java\io\assignment\kalah\model\KalahGameTest.java
+D:\Java Projects\KalahGameService-main\KalahGameService-main\src\test\java\io\assignment\kalah\repository\KalahGameRepositoryTest.java
+D:\Java Projects\KalahGameService-main\KalahGameService-main\src\test\java\io\assignment\kalah\model\PlayerTest.java
+D:\Java Projects\KalahGameService-main\KalahGameService-main\src\test\java\io\assignment\kalah\exception\GameNotFoundExceptionTest.java
+D:\Java Projects\KalahGameService-main\KalahGameService-main\src\test\java\io\assignment\kalah\controller\KalahGameControllerTest.java
+D:\Java Projects\KalahGameService-main\KalahGameService-main\src\test\java\io\assignment\kalah\model\PitTest.java
+D:\Java Projects\KalahGameService-main\KalahGameService-main\src\test\java\io\assignment\kalah\service\KalahGameServiceTest.java
