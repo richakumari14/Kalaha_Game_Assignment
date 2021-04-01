@@ -75,7 +75,7 @@ Response Body:{ "id": "1234", "uri": "http://<host>:<port>/games/1234" }
 id: an unique identifier of a game  
 url: link to the game created  
 
-![Alt text](src/main/resources/static/createGame.png?raw=true "Optional Title")
+![Alt text](src/main/resources/static/createGame.PNG?raw=true "Optional Title")
 
 2. Make a move:  
 ```
@@ -106,6 +106,6 @@ Swagger provides documentation for API. You can check the Kalah Game API at home
 ```
 http://localhost:8090/swagger-ui.html
 ```
-![Alt text](src/main/resources/static/swagger.png?raw=true "Optional Title")
+![Alt text](src/main/resources/static/swagger.PNG?raw=true "Optional Title")
 
 
